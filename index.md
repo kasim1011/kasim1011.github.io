@@ -3,6 +3,13 @@
 
 ---
 
+## Contact Information  
+- **Phone:** +91 9033780529  
+- **Email:** kasim.rangwala@yandex.com  
+- **Location:** Ahmedabad, Gujarat, India  
+
+---
+
 ## Profile Summary  
 Senior Mobile Application Developer with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
 
@@ -20,7 +27,7 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 - Flutter, React Native, Android SDK  
 - Clean Architecture, State Management (Bloc, MVVM, Redux)  
 - Performance Optimization, Unit Testing, Debugging  
-- Git, Agile Methodologies
+- Git, Agile Methodologies  
 
 ### Soft Skills  
 - Teamwork, Leadership, Task Management  
@@ -31,15 +38,15 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 
 ## Tools & Libraries  
 ### Integrations  
-- Agora.io, Mapbox, Keycloak (SSO), Opentok, FFmpeg, ExoPlayer, Strapi GraphQL API
-- Stripe Payments, Razorpay, Amazon Payments MENA, Ecobank (GQ), In-App Payments
-- LinkedIn Auth, Beacon BLE SDK, Mantra Biometric SDK,
-- Firebase (Notifications, Auth, Firestore, Realtime DB), Google Services, SQLite
+- Agora.io, Mapbox, Keycloak (SSO), Opentok, FFmpeg, ExoPlayer, Strapi GraphQL API  
+- Stripe Payments, Razorpay, Amazon Payments MENA, Ecobank (GQ), In-App Payments  
+- LinkedIn Auth, Beacon BLE SDK, Mantra Biometric SDK  
+- Firebase (Notifications, Auth, Firestore, Realtime DB), Google Services, SQLite  
 
 ### Flutter  
-- Bloc/Cubit, GetIt, GetX, Dio, HTTP, Equatable, Freezed
-- GoRouter, Dartz, i18n, Mocktail, Flutter Local Notifications
-- Syncfusion Flutter Charts, Sqflite
+- Bloc/Cubit, GetIt, GetX, Dio, HTTP, Equatable, Freezed  
+- GoRouter, Dartz, i18n, Mocktail, Flutter Local Notifications  
+- Syncfusion Flutter Charts, Sqflite  
 
 ### React Native  
 - Redux, React Navigation, Realm, React Native SVG Charts  
@@ -100,20 +107,12 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 
 ## Achievements  
 ### Stack Overflow  
+- **Profile:** [kasim-rangwala](stackoverflow.com/users/3702021/kasim-rangwala)  
 - **Profile Points:** 1,825  
 - **Badges:** 2 Gold, 24 Silver, 44 Bronze  
 
 ### GitHub Contributions  
-- **odoo-mobile/framework:** Contributor  
-- **kasim1011/odoo-11.0-windows-installation:** Contributor  
-
----
-
-## Contact Information  
-- **Phone:** +91 9033780529  
-- **Email:** kasim.rangwala@yandex.com  
-- **Location:** Ahmedabad, Gujarat, India  
-- **GitHub:** [github.com/kasim1011](https://github.com/kasim1011)  
-- **Stack Overflow:** [stackoverflow.com/kasim-rangwala](https://stackoverflow.com/users/3702021/kasim-rangwala)  
+- **[odoo-mobile/framework](https://github.com/odoo-mobile/framework):** Contributor  
+- **[kasim1011/odoo-11.0-windows-installation](https://github.com/kasim1011/odoo-11.0-windows-installation):** Contributor  
 
 ---
