@@ -11,7 +11,7 @@
 ---
 
 ## Profile Summary  
-Senior Mobile Application Developer with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
+Acting Team Lead with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
 
 - **Cross-Platform Development:** Expertise in building scalable, high-performance applications using Flutter and React Native.  
 - **Android Development:** Advanced knowledge of Android SDKs, APIs, and tools, with hands-on experience in developing robust native apps.  
