@@ -3,12 +3,15 @@
 
 ---
 
-## Contact Information  
-- **Phone:** +91 9033780529  
-- **Email:** kasim.rangwala@yandex.com  
-- **Location:** Ahmedabad, Gujarat, India  
-- **GitHub:** [github.com/kasim1011](https://github.com/kasim1011)  
-- **Stack Overflow:** [stackoverflow.com/kasim-rangwala](https://stackoverflow.com/users/3702021/kasim-rangwala)  
+## Profile Summary  
+Senior Mobile Application Developer with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
+
+- **Cross-Platform Development:** Expertise in building scalable, high-performance applications using Flutter and React Native.  
+- **Android Development:** Advanced knowledge of Android SDKs, APIs, and tools, with hands-on experience in developing robust native apps.  
+- **Clean Architecture:** Skilled in implementing modular, testable, and maintainable architectures.  
+- **Performance Optimization:** Specialized in optimizing applications for performance, security, and scalability.  
+- **State Management & Code Quality:** Proficient in state management (Bloc, MVVM, Redux), debugging, and ensuring high-quality code.  
+- **Continuous Learning & Collaboration:** Passionate about staying updated with the latest tech trends and collaborating with cross-functional teams to achieve business goals.  
 
 ---
 
@@ -23,18 +26,6 @@
 - Teamwork, Leadership, Task Management  
 - Effective Communication, Critical & Analytical Thinking  
 - Attention to Detail  
-
----
-
-## Profile Summary  
-Senior Mobile Application Developer with **9+ years of experience** in designing and developing high-quality mobile applications across **Flutter, React Native, and Android platforms**.  
-
-- **Cross-Platform Development:** Expertise in building scalable, high-performance applications using Flutter and React Native.  
-- **Android Development:** Advanced knowledge of Android SDKs, APIs, and tools, with hands-on experience in developing robust native apps.  
-- **Clean Architecture:** Skilled in implementing modular, testable, and maintainable architectures.  
-- **Performance Optimization:** Specialized in optimizing applications for performance, security, and scalability.  
-- **State Management & Code Quality:** Proficient in state management (Bloc, MVVM, Redux), debugging, and ensuring high-quality code.  
-- **Continuous Learning & Collaboration:** Passionate about staying updated with the latest tech trends and collaborating with cross-functional teams to achieve business goals.  
 
 ---
 
@@ -115,5 +106,14 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 ### GitHub Contributions  
 - **odoo-mobile/framework:** Contributor  
 - **kasim1011/odoo-11.0-windows-installation:** Contributor  
+
+---
+
+## Contact Information  
+- **Phone:** +91 9033780529  
+- **Email:** kasim.rangwala@yandex.com  
+- **Location:** Ahmedabad, Gujarat, India  
+- **GitHub:** [github.com/kasim1011](https://github.com/kasim1011)  
+- **Stack Overflow:** [stackoverflow.com/kasim-rangwala](https://stackoverflow.com/users/3702021/kasim-rangwala)  
 
 ---
