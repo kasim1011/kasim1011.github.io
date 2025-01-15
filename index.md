@@ -4,8 +4,8 @@
 ---
 
 ## Contact Information  
-- **Phone:** +91 9033780529  
-- **Email:** kasim.rangwala@yandex.com  
+- **Phone:** [+91 9033780529](tel:+919033780529)  
+- **Email:** [kasim.rangwala@yandex.com](mailto:kasim.rangwala@yandex.com)  
 - **Location:** Ahmedabad, Gujarat, India  
 
 ---
@@ -107,7 +107,7 @@ Senior Mobile Application Developer with **9+ years of experience** in designing
 
 ## Achievements  
 ### Stack Overflow  
-- **Profile:** [kasim-rangwala](stackoverflow.com/users/3702021/kasim-rangwala)  
+- **Profile:** [kasim-rangwala](https://stackoverflow.com/users/3702021/kasim-rangwala)  
 - **Profile Points:** 1,825  
 - **Badges:** 2 Gold, 24 Silver, 44 Bronze  
 
